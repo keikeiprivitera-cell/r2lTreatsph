@@ -1,0 +1,45 @@
+body {
+  margin: 0;
+  font-family: 'Poppins', sans-serif;
+  background-color: #fff0f6;
+  color: #333;
+}
+
+header {
+  background-color: #ff4fb7;
+  color: white;
+  text-align: center;
+  padding: 80px 20px;
+}
+
+button {
+  background: white;
+  color: #ff4fb7;
+  border: none;
+  padding: 12px 20px;
+  border-radius: 25px;
+  cursor: pointer;
+  font-weight: bold;
+}
+
+button:hover {
+  background: #ffe6f2;
+}
+
+section {
+  text-align: center;
+  padding: 60px 20px;
+}
+
+footer {
+  background-color: #ff4fb7;
+  color: white;
+  text-align: center;
+  padding: 20px;
+}
+.cotton-left {
+  display: block;
+  margin-left: 150px; /* move it a bit from the edge */
+  width: 50px;
+}
+
